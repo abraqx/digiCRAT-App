@@ -1,0 +1,5 @@
+{
+  "name": "DigiCRAT",
+  "description": "An elegant application for finding and booking appointments with expert legal advocates using DigiCRAT. Users can search for lawyers by specialty, view detailed profiles, and schedule consultations for a nominal fee.",
+  "requestFramePermissions": []
+}
